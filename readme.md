@@ -1,6 +1,6 @@
 # Offscreen Menu
 
-Inspired by the work done by [David Bushell](http://dbushell.com/) on [responsive off-canvas navigation](http://coding.smashingmagazine.com/2013/01/15/off-canvas-navigation-for-responsive-website/), I wanted to create an very simple offscreen menu solution that would:
+Inspired by the work done by [David Bushell](http://dbushell.com/) on [responsive off-canvas navigation](http://coding.smashingmagazine.com/2013/01/15/off-canvas-navigation-for-responsive-website/), I wanted to create a very simple offscreen menu solution that would:
 
 - Work down to IE8 (patched with respond.js)
 - Be mobile first but kick off only when screen size was below 62.5em (1000px)-
