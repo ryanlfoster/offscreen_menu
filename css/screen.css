@@ -335,9 +335,9 @@ table {
 /**
  * List of breakpoints defined by keywords
  *
- * small: 	minimum 500px
- * medium: 	minimum 700px
- * large: 	minimum 1000px
+ * below large: 	everything between 16px and 1000px
+ * medium: 			minimum 700px
+ * large: 			minimum 1000px
  */
 /* =Mixins
 #########################################*/

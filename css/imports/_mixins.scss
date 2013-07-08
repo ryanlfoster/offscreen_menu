@@ -4,12 +4,12 @@
 /**
  * List of breakpoints defined by keywords
  *
- * small: 	minimum 500px
- * medium: 	minimum 700px
- * large: 	minimum 1000px
+ * below large: 	everything between 16px and 1000px
+ * medium: 			minimum 700px
+ * large: 			minimum 1000px
  */
 
-$breakpoints: 	"below large"		"(min-width:1em) and (max-width:62.49em)",
+$breakpoints:	"below large"		"(min-width:1em) and (max-width:62.49em)",
 				"medium"			"(min-width:43.75em)",
                 "large"				"(min-width:62.50em)";
 
